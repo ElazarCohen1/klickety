@@ -56,5 +56,5 @@ Les contributions sont les bienvenues ! Si vous souhaitez améliorer le projet :
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Auteurs
-- [Votre Nom](https://github.com/votre-utilisateur)
+- [Cohen Elazar](https://github.com/ElazarCohen1)
 
